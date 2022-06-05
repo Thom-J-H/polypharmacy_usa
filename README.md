@@ -18,7 +18,32 @@ The drastic increase in polypharmacy has both public health and environmental im
 This project has an associated dashboard at RPubs: [Polypharmacy USA](https://rpubs.com/Thom_JH/polypharmacy_usa).
 
 The report was completed for the Substack [American Exile](https://americanexile.substack.com/).
+<hr />
+
+The following applies to all code, data, and image files associated with this repository.  Any text commentary remains copyright &copy; 2022 to the respective authors.
+
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/Thom-J-H/polypharmacy_usa/">
+    <span property="dct:title">Data Humanist</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Polypharmacy USA</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="KH" about="https://github.com/Thom-J-H/polypharmacy_usa/">
+  Cambodia</span>.
+</p>
+
+
+<hr />
 
 ![jump_all](https://user-images.githubusercontent.com/12042357/172053224-bb7a800a-3956-4609-911a-7dd5b286466b.png)
 
-<hr />
+
